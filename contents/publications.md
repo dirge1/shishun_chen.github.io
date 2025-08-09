@@ -4,13 +4,11 @@
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- </strong>Chen, Shi-Shun</strong>, Xiao-Yang Li*. "A new moment-independent uncertainty importance measure based on cumulative residual entropy for developing uncertainty reduction strategies." Mathematics and Computers in Simulation. 2026, 239: 263-281. [[Paper]](https://doi.org/10.1016/j.matcom.2025.06.004) [[Code]](https://github.com/dirge1/GSA_CRE)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- </strong>Chen, Shi-Shun</strong>, Yu-Tong Jiang, Wen-Bin Chen, Xiao-Yang Li*. "TERIME: An Improved RIME Algorithm With Enhanced Exploration and Exploitation for Robust Parameter Extraction of Photovoltaic Models." Journal of Bionic Engineering. 2025, 22: 1535–1556. [[Paper]](https://doi.org/10.1007/s42235-025-00679-8) [[Code]](https://github.com/dirge1/TERIME)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- </strong>Chen, Shi-Shun</strong>, Xiao-Yang Li, and Wen-Rui Xie. "Reliability modeling and statistical analysis of accelerated degradation process with memory effects and unit-to-unit variability." Applied Mathematical Modelling. 2025, 138: 115788. [[Paper]](https://doi.org/10.1016/j.apm.2024.115788) [[Code]](https://github.com/dirge1/FBM_ADT)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- </strong>Chen, Shi-Shun</strong>, Xiao-Yang Li*. "Comparison of global sensitivity analysis methods for a fire spread model with a segmented characteristic." Mathematics and Computers in Simulation, 2025, 229: 304-318. [[Paper]](https://doi.org/10.1016/j.matcom.2024.10.012) [[Code]](https://github.com/dirge1/GSA_segmented)
 
