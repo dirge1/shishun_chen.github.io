@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![dirge1](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/dirge1)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a PhD candidate in the School of Reliability and Systems Engineering, Beihang University
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: css1107@buaa.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Safety Science and Engineering, Beihang University, 2021—2023.\
+B.E., Safety Engineering, Beihang University, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Reliability modeling, Degradation modeling, Uncertainty analysis, Applications of causality analysis
 
