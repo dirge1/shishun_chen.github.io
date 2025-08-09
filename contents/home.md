@@ -7,10 +7,10 @@ He is currently a PhD candidate majoring in Systems Engineering with the School 
 Email: css1107@buaa.edu.cn
 
 #### Education
-Visiting PhD, Dipartimento di Energia, Politecnico di Milano, 2024-2025.\
-M.E., Safety Science and Engineering, Beihang University, 2021—2023.\
+Visiting PhD, Dipartimento di Energia, Politecnico di Milano, 2024-2025. (Supervisor: [[Enrico Zio]](https://news.buaa.edu.cn/info/1005/64800.htm)\
+M.E., Safety Science and Engineering, Beihang University, 2021—2023. (Supervisor: [[Xiao-Yang Li]](https://news.buaa.edu.cn/info/1005/64800.htm)\
 B.E., Safety Engineering, Beihang University, 2017—2021.
 
 #### Research Interests
-Reliability modeling, Degradation modeling, Uncertainty analysis, Applications of causality analysis
+Reliability modeling, Degradation modeling, Uncertainty analysis, Applications of causality analysis in reliability engineering
 
