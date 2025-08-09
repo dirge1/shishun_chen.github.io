@@ -1,8 +1,6 @@
 
-
-[![dirge1](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/dirge1)
-
-He is currently a PhD candidate in the School of Reliability and Systems Engineering, Beihang University
+He is currently a PhD candidate majoring in Systems Engineering with the School of Reliability and Systems Engineering, Beihang University\
+[[GitHub]](https://github.com/dirge1) [[ORCID]](https://orcid.org/0000-0003-0590-7114) [[Scopus]](https://www.scopus.com/authid/detail.uri?authorId=57460197000) 
 
 #### Contact
 
