@@ -12,5 +12,5 @@ M.E., Safety Science and Engineering, Beihang University, 2021—2023. (Supervis
 B.E., Safety Engineering, Beihang University, 2017—2021.
 
 #### Research Interests
-Reliability modeling, Degradation modeling, Uncertainty analysis, Applications of causality analysis in reliability engineering
+Reliability modeling, Degradation modeling, Uncertainty analysis and management, Applications of causality analysis in reliability engineering
 
