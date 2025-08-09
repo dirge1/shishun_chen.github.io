@@ -1,13 +1,3 @@
-#### Submitted
-
-- <strong>Chen, Shi-Shun</strong>, Dong-Hua Niu, Wen-Bin Chen, Jia-Yun Song, Ya-Fei Zhang, Xiao-Yang Li* and Enrico Zio. "Reliability Modeling of Single-Sided Aluminized Polyimide Films during Storage Considering Stress-Induced Degradation Mechanism Transition,"
-
-- <strong>Chen, Shi-Shun</strong>, Xiao-Yang Li* and Enrico Zio. "Time-Delayed Partial Cross Mapping-Based Causal Feature Selection for Stable Soft Sensor Modeling," [[Code]](https://github.com/dirge1/TDPCM)
-
-- <strong>Chen, Shi-Shun</strong>, Shuai Gao, Xiao-Yang Li* and Enrico Zio. "Causal discovery between degradation paths," [[Code]](https://github.com/dirge1/causal_deg_data)
-
-- <strong>Chen, Shi-Shun*</strong> and Enrico Zio. "A general degradation modeling and remaining useful life prediction method based on neural stochastic differential equations," [[Code]](https://github.com/dirge1/NSDE)
-
 #### Published Journal Articles
 
 - <strong>Chen, Shi-Shun</strong> and Xiao-Yang Li*. "A new moment-independent uncertainty importance measure based on cumulative residual entropy for developing uncertainty reduction strategies," <em><strong>Mathematics and Computers in Simulation</strong></em> (IF=4.4, 3/343, MATHEMATICS, APPLIED). 2026, 239: 263-281. [[Paper]](https://doi.org/10.1016/j.matcom.2025.06.004) [[Code]](https://github.com/dirge1/GSA_CRE)
