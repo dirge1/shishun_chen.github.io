@@ -7,7 +7,7 @@ He is currently a PhD candidate majoring in Systems Engineering with the School 
 Email: css1107@buaa.edu.cn
 
 #### Education
-Visiting PhD, Dipartimento di Energia, Politecnico di Milano, 2024-2025. (Supervisor: [[Enrico Zio]](https://news.buaa.edu.cn/info/1005/64800.htm)\
+Visiting PhD, Dipartimento di Energia, Politecnico di Milano, 2024-2025. (Supervisor: [[Enrico Zio]](https://ecpkn.buaa.edu.cn/info/2127/5350.htm)\
 M.E., Safety Science and Engineering, Beihang University, 2021—2023. (Supervisor: [[Xiao-Yang Li]](https://news.buaa.edu.cn/info/1005/64800.htm)\
 B.E., Safety Engineering, Beihang University, 2017—2021.
 
