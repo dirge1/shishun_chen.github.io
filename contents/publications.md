@@ -1,6 +1,6 @@
 #### Published Journal Articles
 
-- <strong>Chen, Shi-Shun</strong>, Xiao-Yang Li and Enrico Zio. Causal Feature Selection Framework for Stable Soft Sensor Modeling based on Time-Delayed Cross Mapping. <em><strong>Advanced Engineering Informatics</strong></em>, 2026. [[PDF]](https://dirge1.github.io/shishun_chen.github.io/papers/Chen2026_AEI_TDPCM.pdf) [[DOI]](https://doi.org/10.1016/j.aei.2026.104337) [[Code]](https://github.com/dirge1/TDPCM)
+- <strong>Chen, Shi-Shun</strong>, Xiao-Yang Li and Enrico Zio. Causal Feature Selection Framework for Stable Soft Sensor Modeling based on Time-Delayed Cross Mapping. <em><strong>Advanced Engineering Informatics</strong></em>, 2026, 71: 104337. [[PDF]](https://dirge1.github.io/shishun_chen.github.io/papers/Chen2026_AEI_TDPCM.pdf) [[DOI]](https://doi.org/10.1016/j.aei.2026.104337) [[Code]](https://github.com/dirge1/TDPCM)
 
 - <strong>Chen, Shi-Shun</strong>, Dong-Hua Niu, Wen-Bin Chen, Jia-Yun Song, Ya-Fei Zhang, Xiao-Yang Li and Enrico Zio. Reliability Modeling of Single-Sided Aluminized Polyimide Films during Storage Considering Stress-Induced Degradation Mechanism Transition. <em><strong>IEEE Transactions on Reliability</strong></em>, 2026, 75: 596-611. [[PDF]](https://dirge1.github.io/shishun_chen.github.io/papers/Chen2026_TR_SAPF.pdf) [[DOI]](https://doi.org/10.1109/TR.2025.3648418)
 
